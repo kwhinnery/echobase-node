@@ -1,0 +1,20 @@
+{
+  "name": "echobase",
+  "version": "0.0.1",
+  "description": "coming soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kwhinnery/echobase-node"
+  },
+  "keywords": [],
+  "author": "Kevin Whinnery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwhinnery/echobase-node/issues"
+  },
+  "homepage": "https://github.com/kwhinnery/echobase-node"
+}
